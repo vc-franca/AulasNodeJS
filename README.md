@@ -1,4 +1,4 @@
-# AulaNodeJS
+# AulasNodeJS
 
 ## Repositório de aulas de Node do SENAI
 
